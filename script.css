@@ -1,0 +1,14 @@
+body {
+    background: #f5f5f5;
+    padding: 2rem;
+  }
+  .card {
+    border-radius: 1rem;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  }
+  .form-section {
+    margin-bottom: 2rem;
+  }
+  .btn-primary, .btn-success {
+    width: 100%;
+  }
